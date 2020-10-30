@@ -1,0 +1,11 @@
+{
+  "name": "callback_to_promise",
+  "version": "1.0.0",
+  "description": "Convert a callback to a promise in one line",
+  "main": "index.js",
+  "author": "Jaro from 3Cells",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node": "^15.0.1"
+  }
+}
